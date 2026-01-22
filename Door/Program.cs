@@ -2,18 +2,6 @@
 {
     internal class Program
     {
-        
-        public enum Days
-        {
-            Monday,
-            Tuesday,
-            Wednesday,
-            Thursday,
-            Friday,
-            Saturday,
-            Sunday
-        }
-
         static void Main(string[] args)
         {
             Console.WriteLine("Please input day: ");
